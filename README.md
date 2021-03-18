@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Jurabek👋
 
-
-- 🔭 I’m currently working on building a B2B charging platform for e-Mobility, for the Open Source world I have a bunch of sample apps that help other developers to develop highly scalable applications
-- 🌱 Passionate about Golang and k8s
-- 👯 I’m looking to collaborate for scaling RestaurantApp as a SaaS platform
+- 🌱 Passionate about Golang and k8s and building Distributed Systems
 - 💬 Ask me about Cloud Native, Microservices, Security, Kubernetes, and Istio
-- 📫 How to reach me: @azjurabek
-- 😄 Pronouns: Jurabek
+
+<a href="https://twitter.com/azjurabek">
+  <img align="left" alt="Jurabek | Twitter" width="21px" src="https://raw.githubusercontent.com/Jurabek/jurabek/master/twitter.svg" />
+</a>
+
+
+![Elie's github stats](https://github-readme-stats.vercel.app/api?username=eliecharra&show_icons=true&count_private=true&hide_border=true)
