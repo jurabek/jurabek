@@ -8,4 +8,4 @@
 </a>
 
 
-![Elie's github stats](https://github-readme-stats.vercel.app/api?username=eliecharra&show_icons=true&count_private=true&hide_border=true)
+![Jurabek's github stats](https://github-readme-stats.vercel.app/api?username=eliecharra&show_icons=true&count_private=true&hide_border=true)
