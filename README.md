@@ -1,6 +1,6 @@
 ### Hi there, my name is Jurabek👋
 
-- 🌱 Passionate about Golang and k8s and building Distributed Systems
+- 🌱 Passionate about Golang and building Distributed Systems
 - 💬 Ask me about Cloud Native, Microservices, Security, Kubernetes, and Istio
 
 <a href="https://twitter.com/azjurabek">
