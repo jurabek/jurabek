@@ -3,7 +3,7 @@
 - 🌱 Passionate about Golang and building Distributed Systems
 - 💬 Ask me about Cloud Native, Microservices, Security, Kubernetes, and Istio
 
-<a href="https://twitter.com/azjurabek">
+<a href="https://twitter.com/jurabek_az">
   <img align="left" alt="Jurabek | Twitter" width="21px" src="https://raw.githubusercontent.com/Jurabek/jurabek/master/twitter.svg" />
 </a>
 
