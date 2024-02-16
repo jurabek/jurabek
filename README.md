@@ -1,7 +1,7 @@
 ### Hi there, my name is Jurabek👋
 
 - 🌱 Passionate about Golang and building Distributed Systems
-- 💬 Ask me about Cloud Native, Microservices, Security, Kubernetes, and Istio
+- 💬 Ask me about Cloud Native, Microservices, Security, Kubernetes, and Open Telemetry
 
 <p>
    <a href="https://www.linkedin.com/in/jurabeka/">
