@@ -7,7 +7,7 @@
    <a href="https://www.linkedin.com/in/jurabeka/">
      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-  <a href="https://twitter.com/jurabek_az">
+  <a href="https://twitter.com/juurabek">
     <img alt="Jurabek | Twitter" src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
